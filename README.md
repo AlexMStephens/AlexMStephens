@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I guess I figured out how to make a readme appear on my profile...
+
 <!--
 **AlexMStephens/AlexMStephens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
