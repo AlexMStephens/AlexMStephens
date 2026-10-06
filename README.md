@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I guess I figured out how to make a readme appear on my profile...
+I program when I have time. I'm building a 3D game engine, an editor for that game engine, and am interested in exploring world of game decomps and recomps, as well as 3DS or Wii U custom firmware. I do not use AI.
 
 <!--
 **AlexMStephens/AlexMStephens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
